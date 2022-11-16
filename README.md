@@ -15,34 +15,6 @@ Customer churn is the term used when an existing customer stops using a companyâ
 
 ![download](https://user-images.githubusercontent.com/73479133/202292282-6e6795cb-fdaa-4a69-ab5e-663c9986fe2a.gif)
 
-# **Customer churn rate** 
- is defined as the proportion of customers who
-stopped using a particular companyâ€™s products or services during
-a definite time frame.
-<br/>
-<br/>
-
-Mathematically
-
-
-<br/>
-
-\begin{align}
-        \text{C(T)} = \frac{\text{A(T)}}{\text{B(T)}} \times 100
-    \end{align}
-
-
-
-where,
-
-**C** represents the churn % for a time frame T,
-
-**A(T)** represents the total number of customers after time T,
-
-**B(T)** represents the total number of customers before time T.
-
-
-
 <p><img alt="Insight logo" src="https://drive.google.com/uc?export=view&id=1pNPWpgMSrFyFEo7TLhqOZXnSTicDLHLe" align="left" hspace="10px" vspace="10px" width="55" height="65" ></p>
 
 
