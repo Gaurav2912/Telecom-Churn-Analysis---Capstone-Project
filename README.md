@@ -63,7 +63,8 @@ Customer churn is the term used when an existing customer stops using a companyâ
 
 <p><img alt="Insight logo" src="https://drive.google.com/uc?export=view&id=14dpaeXX-ajsM8quwe3dCCdQdrdvf29iI" align="left" hspace="20px" vspace="20px" width="45" height="60" ></p>
 
-#**Overall Conclusion**
+
+ #**Overall Conclusion**
 
 ---
 
