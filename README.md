@@ -193,3 +193,7 @@ In the states where the churn rate is more than 20, there is a slight dislike fo
 # Sixth suggestion
 
 * **The company can launch better night calls tariff which is specifically designed for specific states.**
+
+
+![newplot](https://user-images.githubusercontent.com/73479133/210168410-e751b258-8055-42b3-8c49-dbc4d2b62a74.png)
+
